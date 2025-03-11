@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+torch
+torchaudio
+transformers
+numpy
+pydub
+librosa
+soundfile
+ffmpeg
+scipy
+openai-whisper
+gradio
+sentencepiece
